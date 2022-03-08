@@ -24,7 +24,7 @@ This document describes briefly the aim and content of __gitit-tools__.
 # Introduction
 
 The goal of __gitit-tools__ is to add command line functions to `gitit` by
-providing scripts in set that can be used to manage a `gitit` instance.
+providing scripts in a set that can be used to manage a `gitit` instance.
 
 [Gitit](https://github.com/jgm/gitit) is a wiki program written by John
 MacFarlane in Haskell.
